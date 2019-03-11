@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1418587400 source:e:\info\eu-jocuri\4) sfml\12) stick mister\vector2d.cpp
+	"vector2d.h"
+	<math.h>
+
+1418587400 e:\info\eu-jocuri\4) sfml\12) stick mister\vector2d.h
+	<SFML/Graphics.hpp>
+
+1421522924 source:e:\info\eu-jocuri\4) sfml\12) stick mister\bloc.cpp
+	"bloc.h"
+
+1421514294 e:\info\eu-jocuri\4) sfml\12) stick mister\bloc.h
+	"SFML/Graphics.hpp"
+	"object.h"
+	"vector2d.h"
+
+1421504842 e:\info\eu-jocuri\4) sfml\12) stick mister\object.h
+
+1421524356 source:e:\info\eu-jocuri\4) sfml\12) stick mister\game.cpp
+	"game.h"
+	"cstdlib"
+	"time.h"
+	"windows.h"
+	"iostream"
+
+1421530908 e:\info\eu-jocuri\4) sfml\12) stick mister\game.h
+	"SFML/Graphics.hpp"
+	"object.h"
+	"vector"
+	"player.h"
+	"bloc.h"
+	"stick.h"
+
+1421518140 e:\info\eu-jocuri\4) sfml\12) stick mister\player.h
+	"SFML/Graphics.hpp"
+	"object.h"
+	"vector2d.h"
+
+1421517762 e:\info\eu-jocuri\4) sfml\12) stick mister\stick.h
+	"SFML/Graphics.hpp"
+	"object.h"
+	"vector2d.h"
+
+1421524736 source:e:\info\eu-jocuri\4) sfml\12) stick mister\main.cpp
+	<iostream>
+	<conio.h>
+	"Game.h"
+
+1421518140 source:e:\info\eu-jocuri\4) sfml\12) stick mister\player.cpp
+	"player.h"
+	"time.h"
+
+1421515206 source:e:\info\eu-jocuri\4) sfml\12) stick mister\stick.cpp
+	"stick.h"
+
